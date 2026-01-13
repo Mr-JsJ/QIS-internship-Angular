@@ -21,7 +21,7 @@ console.log("last number(22) removed :", marks);
 //-------------------------------
 //unshift() add at begining
 marks.unshift(15);
-console.log("after unshift(15 added to the begining) :", marks);
+console.log("after unshift(15 is added to the begining) :", marks);
 //--------------------------------
 //shift() remove  from first
 marks.shift();
@@ -48,7 +48,7 @@ let combined = marks.concat(extraMarks);
 console.log("after concat :", combined);
 //--------------------------------
 //join
-console.log("join :", marks.join("|"));
+console.log("join :", marks.join("+"));
 // -------------------------------
 // reverse()
 marks.reverse();

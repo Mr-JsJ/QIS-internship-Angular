@@ -1,7 +1,7 @@
-console.log("HELLO WORLD");
+console.log("HELLO WORLD");//print in console
 
 
-let a =10;
+let a =10;//varable declaration
 console.log(a);
 
 let b:string="hello";  ///in type script type is imp ,we can manually give the type of var
